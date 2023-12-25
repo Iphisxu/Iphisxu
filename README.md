@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iphisxu)
+<div align="center"> <img src="https://picgo-evan.oss-cn-guangzhou.aliyuncs.com/img/202312251523104.png" width = 500 /> </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iphisxu&show_icons=true&theme=ambient_gradient)
