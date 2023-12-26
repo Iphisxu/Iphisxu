@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Picture: Hello I'm Evan -->
 <div align="center"> <img src="https://picgo-evan.oss-cn-guangzhou.aliyuncs.com/img/202312251523104.png" width = 500 /> </div>
 
+<!-- badge
+https://shields.io/badges
+ -->
 
-![Static Badge](https://img.shields.io/badge/python-3.10-orange)
+![Static Badge](https://img.shields.io/badge/Atmospheric-Environment-blue)  ![Static Badge](https://img.shields.io/badge/CMAQ-5.3-blue)  ![Static Badge](https://img.shields.io/badge/WRF-3.9-blue)
+![Static Badge](https://img.shields.io/badge/Python-3.10-orange)  ![Static Badge](https://img.shields.io/badge/VS_Code--orange)  ![Static Badge](https://img.shields.io/badge/Zotero--orange)  ![Static Badge](https://img.shields.io/badge/Obsidian--orange)
 
 
 - 🔭 I’m currently working on *Causes of Tropospheric Ozone Pollution and Research on Prevention and Control Strategies in China*.
