@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://picgo-evan.oss-cn-guangzhou.aliyuncs.com/img/202312251523104.png" width = 500 /> </div>
 
+
+![Static Badge](https://img.shields.io/badge/python-3.10-orange)
+
+
 - 🔭 I’m currently working on *Causes of Tropospheric Ozone Pollution and Research on Prevention and Control Strategies in China*.
 - 🌱 I’m currently learning *Python and Machine Learning*.
 - 📫 How to reach me: xuyf36@mail2.sysu.edu.cn
