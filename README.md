@@ -28,6 +28,7 @@ https://shields.io/badges
 
 - 🔭 I’m currently working on ***Causes and Control Strategies of Tropospheric Ozone Pollution in China***.
 - 🌱 I’m currently learning ***Python and Machine Learning***.
+- 📫 How to reach me: xuyf36@mail2.sysu.edu.cn
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iphisxu&show_icons=true&theme=ambient_gradient)
 
@@ -89,5 +90,5 @@ contents ...
 <details> 
 <summary><font size="4" color="#ff6666">2023</font></summary>
 
-<div align="center"> <img src="https://picgo-evan.oss-cn-guangzhou.aliyuncs.com/img/202401121751002.png" width = 500 /> </div>
+<div align="center"> <img src="https://picgo-evan.oss-cn-guangzhou.aliyuncs.com/img/202401121751002.png" width = 800 /> </div>
 </details>
