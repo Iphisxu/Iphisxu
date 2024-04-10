@@ -36,6 +36,10 @@ https://shields.io/badges
 <!-- 
 记录我取得的一些有意思的进步
  -->
+* `2024-04`
+完成硕士毕业论文
+*Complete My Master's Thesis*
+
 * `2023-06`
 担任大气科学学院 2023 年毕业典礼司仪
 *Served as the Master of Ceremonies for the 2023 Graduation Ceremony of the College of Atmospheric Sciences*
@@ -76,6 +80,11 @@ https://shields.io/badges
 <!-- 
 记录我计划完成或希望实现的目标
  -->
+- [ ] 减脂成功（到满意状态）
+- [ ] 组装电脑主机
+- [ ] 拥有自己的相机
+- [ ] 购买运动相机
+- [x] 个人微信公众号 (2024-04)
 - [x] 制作个人主页 (2023-12)
 
 # ✍ 个人年度报告
