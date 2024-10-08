@@ -29,7 +29,7 @@ https://shields.io/badges
 
 - 🔭 I’m currently working on ***Causes and Control Strategies of Urban Air Pollution***.
 - 🌱 I’m currently learning ***Python and Machine Learning***.
-- 📫 How to reach me: xuyf36@mail2.sysu.edu.cn
+- 📫 How to reach me: xuyf@smail.nju.edu.cn
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iphisxu&show_icons=true&theme=ambient_gradient)
 
